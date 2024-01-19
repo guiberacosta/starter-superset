@@ -1,4 +1,3 @@
-
 ## Mandatory configuration // Do not change
 
 import os
